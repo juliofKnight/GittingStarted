@@ -6,3 +6,4 @@
 ---
 
 Email me at [jules.neverland@gmail.com] (Mailto:jules.neverland@gmail.com)
+Disclaimer: This is for reading purposes
