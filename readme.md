@@ -4,6 +4,8 @@
 #### Adding Section A
 #### Adding Section B
 #### Adding Section C
+#### Adding Section D
+#### Adding Section E
 
 ### Not that tough!
 ---
