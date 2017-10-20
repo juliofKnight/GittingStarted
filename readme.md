@@ -1,6 +1,9 @@
 #Git-ing Started with Git
 
 ### A fun project to learn git
+#### Adding Section A
+#### Adding Section B
+#### Adding Section C
 
 ### Not that tough!
 ---
