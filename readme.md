@@ -12,6 +12,7 @@ Explanation 2.1
 
 Spouse: Vanessa Lopez
 Date of Marriage: 6/14/2008
+Sons: Nicolas and Isaac
 
 ### Not that tough!
 ---
